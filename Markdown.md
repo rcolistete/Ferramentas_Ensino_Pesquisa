@@ -1,6 +1,7 @@
 # Markdown
 
 Autoria : [Roberto Colistete Júnior](https://github.com/rcolistete).
+
 Última atualização : 18/02/2021.
 
 ## O que é ?
@@ -56,7 +57,7 @@ Eu recomendo :
 
 - [LaTeX](https://www.latex-project.org/) para textos maiores mais complexos, com índice, capítulos/seções, bibliografia, etc. Por exemplo, para artigos, monografias, dissertações, livros, etc.
 
-Curiosidade : dá para converter Markdown/Jupyter Notebook p/ LaTeX via pandoc (https://pandoc.org/).
+Curiosidade : dá para converter Markdown/Jupyter Notebook p/ LaTeX via [pandoc](https://pandoc.org/).
 
 ## Editores Markdown online
 
@@ -79,6 +80,7 @@ A [lista de editores offline Markdown é gigantesca](https://letmegooglethat.com
 Minha preferência.
 
 <img src="https://typora.io/img/new/toc.png" alt="Typora" width="600"/>
+
 [Typora](https://typora.io/) é um excelente software editor Markdown, permitindo editar enquanto visualiza o texto formatado (livre preview), com visual limpo mas cheio de recursos (inclusive uso de [expressões matemáticas com MathJax/LaTeX](https://support.typora.io/Math/), [diagramas](https://support.typora.io/Draw-Diagrams-With-Markdown/), etc), note que esses últimos recursos não são compatíveis com formato Markdown usual. É gratuito porém de código-fonte fechado, para Linux, Mac OS e Windows. Tem boa [documentação](https://support.typora.io/).  
 Sugestão, decore os atalhos de teclado mais úteis :  Ctrl+K para inserir link no texto selecionado, Ctrl+/ para alternar modo código-fonte, etc.  
 No Manjaro Linux, está disponível em [repositório AUR](https://aur.archlinux.org/packages/typora/) (da comunidade). 
@@ -86,24 +88,28 @@ No Manjaro Linux, está disponível em [repositório AUR](https://aur.archlinux.
 #### ghostwriter
 
 <img src="https://wereturtle.github.io/ghostwriter/images/html-preview.png" alt="ghostwriter" width="600"/>
+
 [ghostwriter](https://wereturtle.github.io/ghostwriter/) é um editor Markdown razoável em recursos, com visualização lado-a-lado do texto formatado, gratuito e de [código-fonte aberto](https://github.com/wereturtle/ghostwriter), para Linux e Windows. Tem boa [documentação](https://wereturtle.github.io/ghostwriter/quickrefguide.html).  
 Está disponível em repositórios Linux, como [Debian](https://packages.debian.org/search?suite=default&section=all&arch=any&searchon=names&keywords=ghostwriter) e [Arch/Manjaro](https://archlinux.org/packages/community/x86_64/ghostwriter/).
 
 #### ReText
 
 <img src="https://raw.githubusercontent.com/retext-project/retext/master/data/retext-kde5.png" alt="ReText" width="600"/>
+
 [ReText](https://github.com/retext-project/retext) é um editor simples de Markdown, com visualização lado-a-lado do texto formatado, gratuito e de [código-fonte aberto](https://github.com/retext-project/retext), para Linux, Mac OS e Windows. Tem boa [documentação](https://github.com/retext-project/retext/wiki).  
 Está disponível em repositórios Linux, como [Debian](https://packages.debian.org/search?keywords=retext) e [Arch/Manjaro](https://archlinux.org/packages/community/any/retext/).
 
 ### Joplin
 
 <img src="https://joplinapp.org/images/DemoDesktop.png" alt="Joplin desktop" width="600"/>
+
 [Joplin](https://joplinapp.org/) é um software para anotações, lista de tarefas, etc, que usa formato Markdown, com sincronização para os serviços de nuvem Nextcloud, Dropbox, OneDrive e WebDAV. É gratuito e multiplataforma [(Linux, Mac OS, Windows](https://joplinapp.org/#desktop-applications), [Android e iOS](https://joplinapp.org/#mobile-applications)), com [código-fonte aberto](https://github.com/laurent22/joplin).  
 No Manjaro/Arch, está disponível em [repositório AUR](https://aur.archlinux.org/packages/joplin-desktop/) (da comunidade).
 
 #### novelWriter
 
 <img src="https://novelwriter.io/images/screenshot-multi.png" alt="Joplin desktop" width="600"/>
+
 O editor Markdown [novelWriter](https://novelwriter.io/) é optimizado para textos mais longos com capítulos distribuídos em diferentes arquivos, etc. Tem [download gratuito e disponível para Linux, MacOS e Windows](https://novelwriter.io/download/), [código-fonte aberto](https://github.com/vkbo/novelWriter) e boa [documentação](https://novelwriter.readthedocs.io/en/stable/).  
 No Manjaro/Arch, está disponível em [repositório AUR](https://aur.archlinux.org/packages/novelwriter/) (da comunidade). 
 
