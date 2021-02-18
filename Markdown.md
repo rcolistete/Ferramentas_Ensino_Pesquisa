@@ -119,4 +119,12 @@ Tem muitos editores Markdown offline para mobile OS : [Android iOS](https://www.
 - "Markor" para Android, com download [via F-Droid](https://f-droid.org/packages/net.gsantner.markor/) ou [Google Play Store](https://play.google.com/store/apps/details?id=net.gsantner.markor&hl=pt_BR&gl=US), é gratuito e de [código-fonte aberto](https://github.com/gsantner/markor);
 - Notizen.md para Sailfish OS, via [OpenRepos](https://openrepos.net/content/fooxl/notizenmd), é gratuito e de [código-fonte aberto](https://github.com/fuchsmich/notizenmd).
 
-Muita gente usa editor (sem saber que é no formato Markdown) em smartphone para fazer anotações, desde lista de compras de supermercado, lista de tarefas, etc.é gratuitoé gratuito
+Muita gente usa editor (sem saber que é no formato Markdown) em smartphone para fazer anotações, desde lista de compras de supermercado, lista de tarefas, etc.
+
+### Discord com Markdown
+
+Vários softwares/web apps permitem uso de Markdown.
+
+Cito aqui o [Discord](https://discord.com/), para bate-papo, etc, que é multi-plataforma [(Linux, Mac OS, Windows, Andriod e iOS](https://discord.com/download)), além de poder ser usado via site. Veja que Discord aceita parte dos comandos Markdown no bate-papo :
+- [Noções básicas de marcação de texto - Formatação do chat: negrito, itálico e sublinhado - Discord](https://support.discord.com/hc/pt-br/articles/210298617-No%C3%A7%C3%B5es-b%C3%A1sicas-de-marca%C3%A7%C3%A3o-de-texto-Formata%C3%A7%C3%A3o-do-chat-negrito-it%C3%A1lico-e-sublinhado);
+- [Discord Text Formatting Guide: Colors, Bold, Italic, Strikethrough - WriteBots](https://www.writebots.com/discord-text-formatting/).
