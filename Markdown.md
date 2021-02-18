@@ -81,9 +81,17 @@ Minha preferência.
 
 <img src="https://typora.io/img/new/toc.png" alt="Typora" width="600"/>
 
-[Typora](https://typora.io/) é um excelente software editor Markdown, permitindo editar enquanto visualiza o texto formatado (livre preview), com visual limpo mas cheio de recursos (inclusive uso de [expressões matemáticas com MathJax/LaTeX](https://support.typora.io/Math/), [diagramas](https://support.typora.io/Draw-Diagrams-With-Markdown/), etc), note que esses últimos recursos não são compatíveis com formato Markdown usual. É gratuito porém de código-fonte fechado, para Linux, Mac OS e Windows. Tem boa [documentação](https://support.typora.io/).  
+[Typora](https://typora.io/) é um excelente editor Markdown, permitindo editar enquanto visualiza o texto formatado (livre preview), com visual limpo mas cheio de recursos (inclusive uso de [expressões matemáticas com MathJax/LaTeX](https://support.typora.io/Math/), [diagramas](https://support.typora.io/Draw-Diagrams-With-Markdown/), etc), note que esses últimos recursos não são compatíveis com formato Markdown usual. É gratuito porém de código-fonte fechado, para Linux, Mac OS e Windows. Tem boa [documentação](https://support.typora.io/).  
 Sugestão, decore os atalhos de teclado mais úteis :  Ctrl+K para inserir link no texto selecionado, Ctrl+/ para alternar modo código-fonte, etc.  
 No Manjaro Linux, está disponível em [repositório AUR](https://aur.archlinux.org/packages/typora/) (da comunidade). 
+
+#### Mark Text
+
+<img src="https://raw.githubusercontent.com/marktext/marktext/develop/docs/marktext.png" alt="Mark Text" width="600"/>
+
+[Mark Text](https://marktext.app/)  é outro excelente editor Markdown, e tal como o Typora (vide [comparação](https://www.linuxjournal.com/content/mark-text-vs-typora-best-markdown-editor-linux)), permite editar enquanto visualiza o texto formatado (livre preview), com visual limpo mas cheio de recursos (inclusive uso de [expressões matemáticas com KaTeX](https://github.com/marktext/marktext/blob/develop/docs/MARKDOWN_SYNTAX.md#math-formulas), [diagramas](https://github.com/marktext/marktext/blob/develop/docs/MARKDOWN_SYNTAX.md#diagrams), etc), note que esses últimos recursos não são compatíveis com formato Markdown usual. É gratuito e de [código-fonte aberto](https://github.com/marktext/marktext), para Linux, Mac OS e Windows. Tem boa [documentação](https://github.com/marktext/marktext/wiki).  
+No Manjaro Linux, está disponível em [repositório AUR](https://aur.archlinux.org/packages/marktext/) (da comunidade). 
+
 
 #### ghostwriter
 
