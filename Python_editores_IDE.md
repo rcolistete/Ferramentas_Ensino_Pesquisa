@@ -27,7 +27,7 @@ Dicas :
 ## Mu Editor
 <img src="https://codewith.mu/img/en/mu.gif" alt="Mu Editor" width="600"/>
 
-[Mu Editor](https://codewith.mu/) é um editor offline simples, com [modos](https://codewith.mu/en/tutorials/1.0/modes) para [Python 3](https://codewith.mu/en/tutorials/1.0/python) e microcontroladores rodando MicroPython (ESP32 e ) e  CircuitPython. O modo Python tem vários recursos úteis para iniciantes :
+[Mu Editor](https://codewith.mu/) é um editor offline simples, com [modos](https://codewith.mu/en/tutorials/1.0/modes) para [Python 3](https://codewith.mu/en/tutorials/1.0/python) e microcontroladores rodando MicroPython (ESP32 e ) e CircuitPython. O modo Python tem vários recursos úteis para iniciantes :
 
 * versões para [Linux, Mac OS, Raspbian, Windows](https://codewith.mu/en/download).
 * em português;
@@ -45,7 +45,7 @@ Desvantagem é a dificuldade de instalar em Linux (fora o Raspbian), que pode re
 
 <img src="https://flight-manual.atom.io/getting-started/images/first-launch.png" alt="Atom" width="600"/>
 
-[Atom](https://atom.io/) é um editor de programação/IDE (Integrated Development Environment) offline, multiplaforma (Linux, Mac OS, Windows), gratuito e de código-fonte aberto.
+[Atom](https://atom.io/) é um editor de programação/IDE (Integrated Development Environment) offline, com suporte (via 'packages') a inúmeras linguagens de programação, multiplaforma (Linux, Mac OS, Windows), gratuito e de código-fonte aberto.
 
 Tem vários ['packages'](https://atom.io/packages) (plugins) pré-instalados (inclusive de Python, com recursos de auto completar e verificar código, etc) e vários outros disponíveis (para Markdown, etc) para instalar. Bem como uma boa variedade de [temas](https://atom.io/themes). A [documentação](https://atom.io/docs) é muito boa.
 
@@ -55,7 +55,7 @@ Tem vários ['packages'](https://atom.io/packages) (plugins) pré-instalados (in
 
 <img src="https://www.jetbrains.com/pycharm/img/screenshots/complexLook@2x.jpg" alt="PyCharm" width="600"/>
 
-[PyCharm](https://www.jetbrains.com/pycharm/) é um editor de programação/IDE offline, multiplaforma (Linux, Mac OS, Windows), com [versões gratuita (PyCharm Community Edition) e comercial (PyCharm Professional Edition)](https://www.jetbrains.com/pycharm/download/other.html).
+[PyCharm](https://www.jetbrains.com/pycharm/) é um editor de programação/IDE offline, com suporte (via 'plugings') a inúmeras linguagens de programação, multiplaforma (Linux, Mac OS, Windows), com [versões gratuita (PyCharm Community Edition) e comercial (PyCharm Professional Edition)](https://www.jetbrains.com/pycharm/download/other.html).
 
 A versão comercial pode ser usada com cadastro educacional, usando email institucional de universidade/etc, crie uma conta no site [JetBrains](https://www.jetbrains.com/) (canto superior direito). Depois clique em "Apply for a "free student or teacher license for educational purposes" para se registrar em qualquer software comercial da JetBrains, incluindo PyCharm.
 
@@ -81,8 +81,8 @@ Recursos de Thonny :
 
 <img src="https://raw.githubusercontent.com/microsoft/vscode-python/main/images/ConfigureDebugger.gif" alt="VS Code" width="600"/>
 
-[Visual Studio Code](https://code.visualstudio.com/), também chamado de VS Code (ou mesmo VSC) é um editor de programação/IDE offline, [multiplaforma (Linux, Raspberry Pi OS, Mac OS, Windows),](https://code.visualstudio.com/#alt-downloads) gratuito e de [código-fonte aberto](https://github.com/microsoft/vscode). Em 12/02/2021 VS Code foi [anunciado](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/) para Raspberry Pi OS, vide também [documentação oficial](https://code.visualstudio.com/docs/setup/raspberry-pi-os).
+[Visual Studio Code](https://code.visualstudio.com/), também chamado de VS Code (ou mesmo VSC) é um editor de programação/IDE offline, com suporte (via ''extensions') a inúmeras linguagens de programação, [multiplaforma (Linux, Raspberry Pi OS, Mac OS, Windows),](https://code.visualstudio.com/#alt-downloads) gratuito e de [código-fonte aberto](https://github.com/microsoft/vscode). Em 12/02/2021 VS Code foi [anunciado](https://www.raspberrypi.org/blog/visual-studio-code-comes-to-raspberry-pi/) para Raspberry Pi OS, vide também [documentação oficial](https://code.visualstudio.com/docs/setup/raspberry-pi-os).
 
-Tem várias ['extensões'](https://marketplace.visualstudio.com/VSCode) pré-instaladas e várias outras disponíveis para instalar, das quais recomendo a extensão "Python - Microsoft". A [documentação](https://code.visualstudio.com/docs) é muito boa.
+Tem várias ['extensions'](https://marketplace.visualstudio.com/VSCode) pré-instaladas (C/C++,  etc) e várias outras disponíveis para instalar, das quais recomendo a extensão "Python - Microsoft". A [documentação](https://code.visualstudio.com/docs) é muito boa.
 
 **VS Code é um dos IDE's profissionais mais populares mundialment**e.
