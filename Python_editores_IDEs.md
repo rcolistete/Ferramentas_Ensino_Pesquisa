@@ -2,7 +2,7 @@
 
 Autoria : [Roberto Colistete Júnior](https://github.com/rcolistete).
 
-Última atualização : 18/02/2021.
+Última atualização : 19/02/2021.
 
 ---
 
@@ -55,7 +55,7 @@ Tem vários ['packages'](https://atom.io/packages) (plugins) pré-instalados (in
 
 <img src="https://www.jetbrains.com/pycharm/img/screenshots/complexLook@2x.jpg" alt="PyCharm" width="600"/>
 
-[PyCharm](https://www.jetbrains.com/pycharm/) é um editor de programação/IDE offline, com suporte (via 'plugings') a inúmeras linguagens de programação, multiplaforma (Linux, Mac OS, Windows), com [versões gratuita (PyCharm Community Edition) e comercial (PyCharm Professional Edition)](https://www.jetbrains.com/pycharm/download/other.html).
+[PyCharm](https://www.jetbrains.com/pycharm/) é um editor de programação/IDE offline, com suporte (via 'plugins') a inúmeras linguagens de programação, multiplaforma (Linux, Mac OS, Windows), com [versões gratuita (PyCharm Community Edition) e comercial (PyCharm Professional Edition)](https://www.jetbrains.com/pycharm/download/other.html).
 
 A versão comercial pode ser usada com cadastro educacional, usando email institucional de universidade/etc, crie uma conta no site [JetBrains](https://www.jetbrains.com/) (canto superior direito). Depois clique em "Apply for a "free student or teacher license for educational purposes" para se registrar em qualquer software comercial da JetBrains, incluindo PyCharm.
 
@@ -85,4 +85,4 @@ Recursos de Thonny :
 
 Tem várias ['extensions'](https://marketplace.visualstudio.com/VSCode) pré-instaladas (C/C++,  etc) e várias outras disponíveis para instalar, das quais recomendo a extensão "Python - Microsoft". A [documentação](https://code.visualstudio.com/docs) é muito boa.
 
-**VS Code é um dos IDE's profissionais mais populares mundialment**e.
+**VS Code é um dos IDE's profissionais mais populares mundialmente**.
