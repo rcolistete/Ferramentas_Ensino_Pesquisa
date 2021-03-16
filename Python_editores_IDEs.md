@@ -2,11 +2,17 @@
 
 Autoria : [Roberto Colistete Júnior](https://github.com/rcolistete).
 
-Última atualização : 19/02/2021.
+Últimas atualizações : 16/03/2021, 19/02/2021.
 
 ---
 
 Há diversos editores/IDE (Integrated Development Environment - Ambiente de Desenvolvimento Integrado) Python online e offline.
+
+Mais matérias sobre isso :
+- [10 Melhores IDEs e Editores de Código em Python para 2021 - geekhunter blog](https://blog.geekhunter.com.br/ides-e-editores-de-codigo-em-python-para-2021/);
+- [10 IDEs para Programar em Python - O Estatístico](https://oestatistico.com.br/10-ides-para-programar-em-python/);
+- [Python IDEs and Code Editors (Guide) - Real Python](https://realpython.com/python-ides-code-editors-guide/);
+- [10 Best Python IDE & Code Editors [Updated Guide] - hackr.io](https://hackr.io/blog/best-python-ide).
 
 
 ## EduBlocks Editor (Online)
