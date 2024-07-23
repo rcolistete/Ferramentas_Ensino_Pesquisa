@@ -12,6 +12,9 @@ Pendrives recém-formatados com exFAT (sistema de arquivos suportado por Linux, 
 
 ## Pendrives
 
+<img src="https://m.media-amazon.com/images/I/71TB1Ti21uL._AC_SL1500_.jpg" alt="32GB Kingston DataTraveler Exodia" style="zoom: 5%;" />
+
+
 1. [32GB Sandisk Cruzer Blade SDCZ50-032G-B35 USB 2.0, cor vermelha e preta](https://www.westerndigital.com/products/usb-flash-drives/sandisk-cruzer-blade-usb-2-0?sku=SDCZ50-032G-B35);
 <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/products/usb-flash-drives/cruzer-blade-usb-2-0/gallery/cruzer-blade-usb-2-0-angle.png.wdthumb.320.320.webp" alt="32GB Sandisk Cruzer Blade" style="zoom:44%;"/>
 
