@@ -14,15 +14,15 @@ Pendrives recém-formatados com exFAT (sistema de arquivos suportado por Linux, 
 
 1. [32GB Sandisk Cruzer Blade SDCZ50-032G-B35 USB 2.0, cor vermelha e preta](https://www.westerndigital.com/products/usb-flash-drives/sandisk-cruzer-blade-usb-2-0?sku=SDCZ50-032G-B35);
 <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/products/usb-flash-drives/cruzer-blade-usb-2-0/gallery/cruzer-blade-usb-2-0-angle.png.wdthumb.320.320.webp" alt="32GB Sandisk Cruzer Blade" style="zoom: 44%;" />
-2. [32GB Kingston DataTraveler Exodia DTX/32GB USB 3.2 Gen1, cor clara/transparente](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
+2. [32GB Kingston DataTraveler Exodia DTX 32GB USB 3.2 Gen1, cor clara/transparente](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
 <img src="https://m.media-amazon.com/images/I/71TB1Ti21uL._AC_SL1500_.jpg" alt="32GB Kingston DataTraveler Exodia" style="zoom: 12.6%;" />
-3. [64GB Kingston DataTraveler Exodia DTX/64GB USB 3.2 Gen1, cor azul](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
+3. [64GB Kingston DataTraveler Exodia DTX 64GB USB 3.2 Gen1, cor azul](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
 <img src="https://media.kingston.com/kingston/product/ktc-product-usb-dtx-64gb-2-lg.jpg" alt="64GB Kingston DataTraveler Exodia" style="zoom:50%;" />
-4. [128GB Kingston DataTraveler Exodia DTX/129GB USB 3.2 Gen1, cor amarela](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
+4. [128GB Kingston DataTraveler Exodia DTX 129GB USB 3.2 Gen1, cor amarela](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
 <img src="https://media.kingston.com/kingston/product/ktc-product-usb-dtx-128gb-2-lg.jpg" alt="64GB Kingston DataTraveler Exodia" style="zoom:50%;" />
-5. [256GB Kingston DataTraveler Exodia Onyx DTXON/256GB USB 3.2 Gen1, cor cinza](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-onyx-moving-usb-3-2-usb-flash-drive).
+5. [256GB Kingston DataTraveler Exodia Onyx DTXON 256GB USB 3.2 Gen1, cor cinza](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-onyx-moving-usb-3-2-usb-flash-drive).
 <img src="https://media.kingston.com/kingston/product/ktc-product-usb-dtxon-256gb-1-lg.jpg" alt="256GB Kingston DataTraveler Exodia Onyx" style="zoom: 46%;" />
-6. [256GB Kingston DataTraveler microDuo 3C DTDUO3CG3/256GB USB-A/USB-C 3.2 Gen1 200MB/s, cor violeta](https://www.kingston.com/br/usb-flash-drives/datatraveler-microduo-3c-g3?capacity=256gb).
+6. [256GB Kingston DataTraveler microDuo 3C DTDUO3CG3 256GB USB-A/USB-C 3.2 Gen1 200MB/s, cor violeta](https://www.kingston.com/br/usb-flash-drives/datatraveler-microduo-3c-g3?capacity=256gb).
 <img src="https://i0.wp.com/pokde.net/assets/uploads/2023/10/e-20230710_153611.jpg" alt="256GB Kingston DataTraveler microDuo 3C DTDUO3CG3/256GB" style="zoom: 10%;" />
 
 ## Resultados de Desempenho
