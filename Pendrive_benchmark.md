@@ -16,7 +16,8 @@ Pendrives recém-formatados com exFAT (sistema de arquivos suportado por Linux, 
 <img src="https://www.westerndigital.com/content/dam/store/en-us/assets/products/usb-flash-drives/cruzer-blade-usb-2-0/gallery/cruzer-blade-usb-2-0-angle.png.wdthumb.320.320.webp" alt="32GB Sandisk Cruzer Blade" style="zoom: 44%;"/>
 
 2. [32GB Kingston DataTraveler Exodia DTX/32GB USB 3.2 Gen1, cor clara/transparente](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
-<img src="https://m.media-amazon.com/images/I/71TB1Ti21uL._AC_SL1500_.jpg" alt="32GB Kingston DataTraveler Exodia" style="zoom: 20%;" />
+
+<img src="https://www.mtech.am/assets/images/fe/fe63b7_85988814-3801918367.png" alt="32GB Kingston DataTraveler Exodia" style="zoom:  20%;" />
 
 3. [64GB Kingston DataTraveler Exodia DTX/64GB USB 3.2 Gen1, cor azul](https://www.kingston.com/br/usb-flash-drives/datatraveler-exodia-usb-3-2-usb-flash-drive);
 <img src="https://media.kingston.com/kingston/product/ktc-product-usb-dtx-64gb-2-lg.jpg" alt="64GB Kingston DataTraveler Exodia" style="zoom:50%;" />
