@@ -50,8 +50,7 @@ Os valores são de leitura sequencial e gravação sequencial, em MB/s. Uma medi
 - o pendrive USB 2 aqui analisado tem desempenho mais baixo do que o máximo da porta USB 2.0 (480 Mbps, ou aprox. 48 MB/s), principalmente em gravação; 
 - mesmo em leitura sequencial, os pendrives USB 3 aqui analisados têm desempenho bem mais baixo do que o máximo da porta USB 3.0 (USB 3.2 Gen 1x1), 5 Gbps (aprox. 500 MB/s). Mas há pendrives USB 3 de alta velocidade, por isso sendo mais caros;
 - **em geral os pendrives têm velocidade de gravação bem mais baixa que de leitura**;
-- mesmo entre mesma família, Kingston DataTraveler Exodia DTX, o desempenho varia com a capacidade, mas pode variar com o lote de produção, etc;
-- o pendrive de 256GB Kingston DataTraveler Exodia Onyx é o mais lento : um pouco em leitura e muito em gravação.
+- mesmo entre mesma família, Kingston DataTraveler Exodia DTX, o desempenho varia com a capacidade, mas pode variar com o lote de produção, etc.
 
 ### Recomendação
 
